@@ -1,0 +1,9 @@
+wait(4)
+message = "Бесконечность - это то, что существует само по себе."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2)
+message = "Я просто воплощаю это в реальность,"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2)
+message = Вот почему твоя попытка убить меня провалилась."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
