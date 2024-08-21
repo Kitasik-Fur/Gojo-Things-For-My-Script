@@ -27,5 +27,5 @@ end
 
 
 onAnimation("13071982935", function(animation)
-       loadstring(game:HttpGet"https://raw.githubusercontent.com/Kitasik-Fur/Gojo-Things-For-My-Script/main/Gojo%20Awakening%20Hollow%20Purple%20In%20Russian8")()
+       loadstring(game:HttpGet"https://raw.githubusercontent.com/Kitasik-Fur/Gojo-Things-For-My-Script/main/Gojo%20Awakening%20Hollow%20Purple%20In%20Russian")()
 end)
