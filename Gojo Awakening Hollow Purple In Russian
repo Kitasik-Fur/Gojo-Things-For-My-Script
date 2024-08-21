@@ -1,0 +1,11 @@
+message = "Возьмем усиленный и обратный,"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1.5)
+message = "Затем соедините эти два разных выражения бесконечности,"
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1.5)
+message = "Для того чтоб Создать и выкинуть воображаемую массу."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(2.10)
+message = "Воображаемая техника: Пурпурный, фиолетовый."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
