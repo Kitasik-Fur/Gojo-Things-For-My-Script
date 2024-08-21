@@ -1,4 +1,4 @@
-message = "Прости, Amanai. Сейчас я даже не держу зла на тебя."
+message = "Прости, Аманай. Сейчас я даже не держу зла на тебя."
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(2.25)
 message = "Я ни на кого не держу зла."
@@ -7,5 +7,5 @@ wait(2.25)
 message = "Просто сейчас мир кажется таким чудесным."
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(2.25)
-message = "На Небесах и на Земле лишь я один достойный."
+message = "На Небесах и Земле лишь я один достойный."
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
