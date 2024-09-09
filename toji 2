@@ -1,0 +1,3 @@
+message = "It Was Me, I Killed Gojo Satoru."
+game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
+wait(1.25)
