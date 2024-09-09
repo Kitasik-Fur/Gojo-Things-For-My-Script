@@ -1,6 +1,6 @@
 message = "However, even in the gojo clan,"
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
-wait(1.)
+wait(1)
 message = "Only a scant few know about this."
 game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(message, "All")
 wait(1)
